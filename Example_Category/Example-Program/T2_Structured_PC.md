@@ -1,5 +1,5 @@
 ## **📜 T2_Structured_Pseudocode.md**
-> **Purpose:** A **structured, step-by-step** breakdown that closely resembles the real Python logic.
+**Purpose:** A **structured, step-by-step** breakdown that closely resembles the real Python logic.
 
 ```markdown
 # Structured Pseudocode: Directory Structure Generator
